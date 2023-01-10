@@ -1,0 +1,51 @@
+h1{
+    color: red;
+    text-align: center;
+}
+.faruk{
+    font-size: 50px;
+    color: blue !important;
+}
+.faruk{
+    color: red;
+}
+#okk{
+    color: rgb(109, 18, 18);
+}
+
+
+/* This is part 2 */
+
+
+.okk{
+    display: inline-flex;
+}
+.one {
+    width: 300px;
+    background: orangered;
+    padding: 10px;
+    margin-left: 11px;
+}
+.one img{
+    width: 100%;
+    background: orangered;
+}
+.one h1{
+    background: black;
+    color: #fff;
+
+}
+.one p{
+    text-align: justify;
+}
+.one button{
+    background: black;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 100%;
+    padding: 10px;
+}
+.one button:hover{
+    background: red;
+}
